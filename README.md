@@ -1,2 +1,2 @@
 # Manufacturing_Systems
-Code for Manufacturing Systems EIN4621
+Code and examples for Manufacturing Systems EIN4621
